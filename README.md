@@ -12,6 +12,7 @@ Take requests from customers and brew potions in this cozy game with a mix of vi
 
 ## Game Jam
 This game was a submission for the [Inbound Shovel Jam 2025][15] game jam.
+<br>
 The game has been released on [Itch.io][16] to be downloaded & played.
 
 ## About
@@ -23,14 +24,14 @@ This game was made with an aspect ratio of 16:9 and resolution of 1080p in mind.
 The game is also always launched in fullscreen, and has no settings to adjust.
 
 # Credits
-Programming, Writing - [Stefan Claasse][0]
-
+Programming, Writing - [Stefan Claasse][0] 
+<br>
 Programming, Art, Writing - [Lon van Ettinger][1]
 
-Art assets
+### Art assets
 Base for the following art assets: Shop Counter, Shop Interior, Shelves and Wall, Cauldron, Book, Ladle, Newspaper, Stars - [Designed by Freepik][2] (no AI-generated images used)
 
-Audio assets
+### Audio assets
 Main menu music - [Piano and effects track loop][3] by frankum
 
 In-game music - [Jazz Background Music Loop][4] by Migfus20
