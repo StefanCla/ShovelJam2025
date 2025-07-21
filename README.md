@@ -19,7 +19,7 @@ The game has been released on [Itch.io][16] to be downloaded & played.
 We're two game devs who have been making games for a while, but never entered a game jam on our own let alone together! We in total spent about 4 days on it and made the entire thing in... Unreal Engine 5 UMG (which somehow worked out lol). We're both programmers, so a big part of assets have been flipped or just taken off the interwebs (all credits down below!)
 
 ## Note
-This game was made with an aspect ratio of 16:9 and resolution of 1080p in mind. No testing has been done for other resultions & aspect ratio's. So the game might look off in those instances.
+This game was made with an aspect ratio of 16:9 and resolution of 1080p in mind. No testing has been done for other resolutions & aspect ratio's. So the game might look off in those instances.
 
 The game is also always launched in fullscreen, and has no settings to adjust.
 
